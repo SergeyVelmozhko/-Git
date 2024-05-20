@@ -5,7 +5,7 @@
 `git clone https://github.com/PraktikumJava/git-hints.git`
 
 
-# Добавить раздел про HEAD.
+# Добавить раздел про Хеш.
 
 Хеш — идентификатор коммита.
 
